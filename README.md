@@ -1,1 +1,1 @@
-# https://iukait.github.io/rsschool-cv/cv
+# https://iukait.github.io/rsschool-cv/
