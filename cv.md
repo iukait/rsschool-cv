@@ -24,7 +24,6 @@
 
 ---
 
-
 ## CODE EXAMPES
 ```javascript
 function min(arr, toReturn) {
@@ -34,14 +33,12 @@ function min(arr, toReturn) {
     return arr.indexOf(Math.min(...arr));
   }
 }
-
 ```
 
 ---
-
 ## PROFESSIONAL EXPERIENCE
 
-### Global Upwork Studio (03/2020 - present)
+### Global Upwork Studio (03/2022 - present)
 *Frontend Developer*
 
 - Conducted in-depth analysis of the technical project specifications.
@@ -80,7 +77,13 @@ function min(arr, toReturn) {
 
 
 ## EDUCATION 
-**Master’s Degree**  
+
+- certificate **HTML &CSS. Adaptive Website Coding and Automation**  
+*March 27 – May 29, 2023*
+- certificate **HTML &CSS. Professional Website Coding**  
+*January 16 – March 20, 2023*
+
+- **Master’s Degree**  
 *Software Developer, 06/30/2020*
 
 ---
