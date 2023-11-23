@@ -1,5 +1,13 @@
 # Julia Celarscaia
-*julia.celarscaia@gmail.com*  
+![julia celarscaia](julia.jpg)
+---
+
+
+## CONTACT INFORMATION
+- **Email:** julia.celarscaia@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/julia-celor-a3aa08188/
+- **GitHub:** https://github.com/iukait
+- **Discord nickname:** julia_celarscaia
 
 ---
 
@@ -13,6 +21,21 @@
 - **Tools:** npm, Webpack,Gulp
 - **Version Control:** Git, GitHub
 - **QA Processes:** Good understanding of quality assurance processes
+
+---
+
+
+## CODE EXAMPES
+```javascript
+function min(arr, toReturn) {
+  if (toReturn === 'value') {
+    return Math.min(...arr);
+  } else if (toReturn === 'index') {
+    return arr.indexOf(Math.min(...arr));
+  }
+}
+
+```
 
 ---
 
@@ -54,7 +77,7 @@
 
 *Technology Stack / Methodologies / Tools: Java, Selenium Web Driver, TestNG, Jira, GitHub*
 
----
+
 
 ## EDUCATION 
 **Master’s Degree**  
@@ -62,8 +85,9 @@
 
 ---
 
-## CONTACT INFORMATION
-- **Email:** julia.celarscaia@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/julia-celor-a3aa08188/
-- **GitHub:** https://github.com/iukait
+## ENGLISH LANGUATE
+
+ English - Intermediate/Upper-intermediate (according to the Cambridge English online test )
+
+
 
